@@ -56,4 +56,4 @@ NB: Install "yarn" if you have not, using
 and deleting the ".cache" folder in node_modules, then restarting the server.
 
 ## Author
-- [Williams Samuel](https://williamssam.netlify.app/)
+- [algofactor](https://trevcan.netlify.app/)
